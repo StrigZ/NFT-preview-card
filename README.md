@@ -6,8 +6,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Screenshot](#screenshot) 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,12 +28,6 @@ Users should be able to:
 
 ![](./screenshot.jpg)
  
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
@@ -46,9 +39,7 @@ Users should be able to:
 
 ### What I learned
 
- 
-
-Learned how to alter iamge on hover.
+Learned how to alter images on hover.
 ```html
  <div class="card__img-box">
                 <img class="card__img" src="/images/image-equilibrium.jpg" alt="">
