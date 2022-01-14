@@ -81,5 +81,5 @@ Learned how to alter images on hover.
 
 ## Author
 
-- Github - [Add your name here](https://github.com/StrigZ)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/StrigZ) 
+- Github - [StrigZ](https://github.com/StrigZ)
+- Frontend Mentor - [@StrigZ](https://www.frontendmentor.io/profile/StrigZ) 
